@@ -1,0 +1,13 @@
+{
+  "name": "Demographic_Dashboard",
+  "version": "1.0.0",
+  "description": "Tableau Dashboard with NCTCOG data, and ACS data.",
+  "main": "index.js",
+  "repository": "https://github.com/conniexu/WDC_NCTCOG_Demographic",
+  "author": "Connie Xu",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1"
+  }
+}
